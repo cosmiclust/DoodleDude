@@ -1,6 +1,5 @@
 # DoodleDude
 
-Here’s a compelling GitHub intro and tech stack for **Doodle Dude**:
 
 ---
 
